@@ -1,6 +1,6 @@
 # intern_ott
 
-A new Flutter application.
+Video Player App for building OTT platform.
 
 ## Getting Started
 
