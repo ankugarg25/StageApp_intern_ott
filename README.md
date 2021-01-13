@@ -1,6 +1,7 @@
 # intern_ott
 
-Video Player App for building OTT platform.
+Task : Video Player App for building Stage OTT platform.
+By Ankush Agarwal
 
 ## Getting Started
 
